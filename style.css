@@ -1,0 +1,36 @@
+body{
+    background-color: #212122;
+    color: #fff;
+    text-align: center;
+}
+
+.main{
+    background-color: darkgray;
+    width: 50vw;
+    margin-left: 25vw;
+    border-radius: 5px;
+}
+
+h2 .main{
+    margin-top: 10px;
+}
+
+#input{
+    width: 95%;
+    border: #212122 solid 2px;
+    height: 30px;
+    border-radius: 3px;
+    margin-bottom: 25px;
+    background-color: #fff;
+}
+
+#subt{
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #212122;
+}
+
+.resultPara{
+    margin-bottom: 5px;
+}
